@@ -21,7 +21,7 @@ I recieved my BSc degree in Electrical and Electronics Engineering from the Univ
 <hr style="border:1px solid navy">
 
 # Research Interests
-My main interest is to combine Machine Learning (ML) algorithms with Communication Theory to optimizate the performance of the new generation of the communication systems. 
+My main interest is to combine Machine Learning (ML) algorithms with Communication Theory to optimize the performance of the new generation communication systems. 
 
 - Wireless Communication
 - Deep Learning & AI

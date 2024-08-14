@@ -12,7 +12,7 @@ Upcoming PhD fellow in Electrical and Electronics Engineering at [RWTH Aachen](h
 <hr style="border:1px solid navy">
 
 I have recieved my MSc degree from the [School of Electrical and Electronics Engineering](https://ee.ku.edu.tr/) in [Koc University](https://www.ku.edu.tr/en/), Istanbul, Turkey. My research is about developing novel and efficient Deep Learning (DL) algorithms in resoruce allocation problem for wireless control systems in Ultra-Reliable Low-Latency Communication (URLLC) and Finite 
-Blocklength (FBL) regime. I was a research assistant in [Wireless Networks Lab](https://wnl.ku.edu.tr/) (WNL) under the supervision of [Prof. Dr. Sinem Coleri](https://mysite.ku.edu.tr/scoleri/).
+Blocklength (FBL) regime. I was a research assistant in [Wireless Networks Lab](https://wnl.ku.edu.tr/) (WNL) under the supervision of [Prof. Sinem Coleri](https://mysite.ku.edu.tr/scoleri/).
 
 ---
 
